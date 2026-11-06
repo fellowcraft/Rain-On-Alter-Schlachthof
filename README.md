@@ -1,11 +1,11 @@
-# Wurstsalad
+# Rain-Over-Slaughterhouse
 
 Generative hour-long Csound piece. A conductor instrument schedules
-pitched stereo grains (`diskin2`) from `Media/Wurstsalad.wav`, each with
+pitched stereo grains (`diskin2`) from `Media/Rain-Over-Slaughterhouse.wav`, each with
 its own pitch wobble, random direction, and sine-modulated bounds, into a
 global `reverbsc` bus.
 
-Current version: `csd/Wurstsalad15.csd` (direction 75% forwards / 25%
+Current version: `csd/Rain-Over-Slaughterhouse15.csd` (direction 75% forwards / 25%
 backwards, Pulse/analog-out default; only REAPER touches the Scarlett).
 
 ## Layout
@@ -19,8 +19,8 @@ backwards, Pulse/analog-out default; only REAPER touches the Scarlett).
 ## Use
 
 New take, live: `./scripts/run-take.sh`
-New take to file: `./scripts/run-take.sh -o takes/Wurstsalad15-takeNN.wav -W -3 -d`
-Replay a take: `./scripts/run-take.sh takes/Wurstsalad15-takeNN-events.sco [-o ...]`
+New take to file: `./scripts/run-take.sh -o takes/Rain-Over-Slaughterhouse15-takeNN.wav -W -3 -d`
+Replay a take: `./scripts/run-take.sh takes/Rain-Over-Slaughterhouse15-takeNN-events.sco [-o ...]`
 Audition from minute M: `./scripts/from-min.sh takes/<take>.sco M [-o ...]`
 Follow newest file: `./scripts/latest.sh`
 

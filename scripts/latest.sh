@@ -5,7 +5,7 @@
 #   Text files print via bat; anything else (wav, etc.) shows ls + audio
 #   info so growing renders are visible too. --edit opens each new text
 #   file in nvim (quit nvim to resume following). Polls every second.
-DIR="${2:-/mnt/bigdrive/CSOUND/Wurstsalad}"
+DIR="${2:-/mnt/bigdrive/CSOUND/Rain-Over-Slaughterhouse}"
 EDIT=0
 [ "$1" = "--edit" ] && EDIT=1
 [ "$2" = "--edit" ] && EDIT=1

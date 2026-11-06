@@ -3,7 +3,7 @@
 # Usage: ./from-min.sh EVENTS_SCO MINUTES [-o out.wav -W -3 -d]
 #   No -o: live to analog out (Pulse default). With -o: file render.
 #   Grains overlapping the start point are kept (attack restarts there).
-D=/mnt/bigdrive/CSOUND/Wurstsalad
+D=/mnt/bigdrive/CSOUND/Rain-Over-Slaughterhouse
 SCO="$1"; MIN="$2"; shift 2
 case "$SCO" in /*) ;; *) SCO="$PWD/$SCO";; esac
 if [ ! -f "$SCO" ]; then
@@ -28,7 +28,7 @@ for l in open(sys.argv[1]):
 EOF
 N=$(wc -l < /tmp/opencode/aud-events.sco)
 echo "from-min: $N grains from minute $MIN (offset ${OFF}s)"
-sed -e "s/^i99 0 3606\$/i99 0 $LEN/" "$D/csd/Wurstsalad19-recall-template.csd" \
+sed -e "s/^i99 0 3606\$/i99 0 $LEN/" "$D/csd/Rain-Over-Slaughterhouse19-recall-template.csd" \
   > /tmp/opencode/aud-tpl.csd
 awk '/;__EVENTS__/{while((getline l<"/tmp/opencode/aud-events.sco")>0)print l;next}1' \
   /tmp/opencode/aud-tpl.csd > /tmp/opencode/audition.csd
