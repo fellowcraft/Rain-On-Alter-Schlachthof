@@ -1,0 +1,31 @@
+[1] For Microphone and Rain
+1:01:28
+(2026)
+
+Catalog No:  FLX197
+Title:  Rain On Alter Schlachthof
+Sound Artist:  Frank Rothkamm
+Visual Artist:  Holger Rothkamm,Gemini 3
+Label:  rothkamm.com
+Length:  1:01:28 (3688s)
+Composed:  2026
+Location:  Los Angeles, Karlsruhe
+Instruments:  Zoom H2n, Muse Spark 1.3, Csound 6.18
+Release Date:  11/10/2026
+Format:  Digital
+Tags:  field recording
+
+I recognized Veronika in Karlsruhe on a rainy October morning.
+
+We took the S-Bahn through the grey flat light of an Upper Rhine morning, the windows fogged, the rails hissing underneath us. Veronika waited at the gate of the Alter Schlachthof with a large black umbrella, laughing, and led us across the wet cobblestones to her atelier.
+
+The Alter Schlachthof was Karlsruhe's slaughterhouse for over a century, built in brick in the 1880s when the city moved its butchers out of the old town and behind walls of its own. For generations the halls rang with iron and hooves and cold morning commerce. Then the gates closed, the blood washed away, and the city gave the buildings back to the living: printers, designers, painters and start-ups. What was once a house of knives is now a warren of studios, and Veronika's atelier sits beneath one of the great glass roofs that used to vent steam and smoke to the sky.
+
+We entered the huge building just as the rain found the glass above us. Drop by drop, then a rush, then a hush that was not silence but a thousand small bells ringing at once. I set the recorder down. The rain played the roof like an instrument no hand could tune, and the old hall held every note the way a shell holds the sea.
+
+It was so quiet between the drops that you could hear the building breathing. Dust in a shaft of grey light. The others remained inside the atelier, their voices folded into the warmth of the room, while I stepped out into the large hallway alone and stood beneath the glass, observing the rain. The ghosts of the Alter Schlachthof moved with it, patient and unhurried, keepers of a house that had learned to listen. Time did not pass; it pooled around my feet like water in a courtyard, and shone.
+
+In Los Angeles under the spell of Artificial Intelligence, I fed the rain to Csound. The oldest living computer music language. Heir to Max Mathews' MUSIC programs, which first taught a machine to sing at Bell Labs in the late 1950s. It broke the rain into a thousand tiny grains of sound and scattered them back into time like seed into wind. Nothing returns when expected. The ebb and flow of the hours, the density of events, a drop falling here, a silence opening there. The roof plays on, but now it dreams: the same rain, remembered differently each time it falls.
+
+
+http://rothkamm.com/?Rain+On+Alter+Schlachthof
